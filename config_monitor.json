@@ -1,0 +1,202 @@
+{
+    "last_regional": "Metropolitana Sub 2",
+    "regional_data": {
+        "Metropolitana Sub 1": {
+            "valor_api": "Regional | Metropolitana Sub-1",
+            "empresas_retrab": [],
+            "cidades": [
+                "Igarapé",
+                "São Joaquim de Bicas",
+                "Juatuba",
+                "Betim",
+                "Contagem",
+                "Mateus Leme",
+                "Esmeraldas",
+                "Florestal",
+                "Crucilândia",
+                "Piracema",
+                "Itaguara",
+                "Belo Horizonte"
+            ],
+            "gestor_email": "",
+            "telegram_chat_id": ""
+        },
+        "Metropolitana Sub 2": {
+            "valor_api": "Regional | Metropolitana Sub-2",
+            "empresas_retrab": [
+                "BRUMAS TELECOM",
+                "Diginet",
+                "Fabio Telecom",
+                "Apice Service",
+                "CP Manutenção",
+                "SR TECH",
+                "Marcos Paulo Dias",
+                "Thiago Araujo",
+                "Brendon Xavier",
+                "APICE TELECOM",
+                "CP MANUTENÇÃO",
+                "BELO VALE E MOEDA (SEG-SAB)"
+            ],
+            "cidades": [
+                "Brumadinho",
+                "Belo Vale",
+                "Moeda",
+                "Bonfim",
+                "Rio Manso",
+                "Piedade dos Gerais",
+                "Sarzedo",
+                "Mario Campos",
+                "Ibirité",
+                "Nova lima",
+                "Itabirito"
+            ],
+            "gestor_email": "rodrigo.reis@sempre.net.br",
+            "telegram_chat_id": "-4971865380"
+        },
+        "Metropolitana Sub 3": {
+            "valor_api": "Regional | Metropolitana Sub-3",
+            "empresas_retrab": [],
+            "cidades": [
+                "Sete Lagoas",
+                "Jaboticatubas",
+                "Capim Branco",
+                "Baldim",
+                "Cordisburgo",
+                "Jequitibá",
+                "Santana de Pirapama",
+                "Funilândia",
+                "Cachoeira da Prata",
+                "Araçai",
+                "Prudente de Morais",
+                "Matozinhos",
+                "Inhaúma",
+                "Fortuna de Minas"
+            ],
+            "gestor_email": "",
+            "telegram_chat_id": ""
+        },
+        "Central Mineira": {
+            "valor_api": "Regional | Central Mineira",
+            "empresas_retrab": [],
+            "cidades": [
+                "Bom Despacho",
+                "Abaeté",
+                "Martinho Campos",
+                "Pitangui",
+                "São Gonçalo do Pará",
+                "Conceição do Pará",
+                "Quartel Geral",
+                "Onça de Pitangui",
+                "Para de Minas",
+                "Cedro do Abaeté",
+                "Paineiras",
+                "São Jose da Varginha",
+                "Leandro Ferreira",
+                "Igaratinga"
+            ],
+            "gestor_email": "",
+            "telegram_chat_id": ""
+        },
+        "Oeste de Minas": {
+            "valor_api": "Regional | Oeste de Minas",
+            "empresas_retrab": [],
+            "cidades": [
+                "Sanbto Antônio do Monte",
+                "Lagoa da Prata",
+                "Itapecerica",
+                "Cláudio",
+                "Piumhi",
+                "Iguatama",
+                "Pedra do Indaiá",
+                "Divinópolis",
+                "Araújos",
+                "Perdigao",
+                "Camacho",
+                "Japaraíba",
+                "São Sebastião do Oeste",
+                "Doresópolis",
+                "Carmo do Cajuru"
+            ],
+            "gestor_email": "",
+            "telegram_chat_id": ""
+        },
+        "Centro Oeste": {
+            "valor_api": "Regional | Centro Oeste",
+            "empresas_retrab": [],
+            "cidades": [
+                "Campo Belo",
+                "Oliveira",
+                "Arcos",
+                "Formiga",
+                "Candeias",
+                "Camópolis de Minas",
+                "Cristais",
+                "Santana do Jacaré",
+                "Carmo da Mata",
+                "Pains",
+                "Cana verde",
+                "Aguanil",
+                "São francisco de Paula",
+                "Corrego fundo"
+            ],
+            "gestor_email": "",
+            "telegram_chat_id": ""
+        },
+        "Sul de Minas": {
+            "valor_api": "Regional | Sul de Minas",
+            "empresas_retrab": [],
+            "cidades": [
+                "Lavras",
+                "Perdões",
+                "Santo Antônio do Amparo",
+                "Bom sucesso",
+                "Ijaci",
+                "São Tiago",
+                "Nazareno",
+                "Ribeirão Vermelho",
+                "Três corações",
+                "Itutinga",
+                "São Thomé das Letras",
+                "Ibituruna",
+                "Carmo da Cachoeira",
+                "Carrancas",
+                "Luminárias",
+                "Itumirim",
+                "Nepomuceno",
+                "São Bento Abade",
+                "Ingaí"
+            ],
+            "gestor_email": "",
+            "telegram_chat_id": ""
+        }
+    },
+    "column_names": {
+        "NOME_COLUNA_OS": "Ordem de Serviço",
+        "NOME_COLUNA_CLIENTE": "Codigo de Parceiro",
+        "NOME_COLUNA_CIDADE": "Cidade",
+        "NOME_COLUNA_STATUS_SLA": "Status SLA",
+        "NOME_COLUNA_STATUS_OS": "Status",
+        "NOME_COLUNA_TEMPO_ATRASO": "Tempo Restante",
+        "NOME_COLUNA_TIPO_OS": "Tipo de OS"
+    },
+    "os_type_groups": {
+        "Suporte_e_Upgrade": [
+            "SUPORTE",
+            "UPGRADE"
+        ],
+        "Instalacao_e_Mudanca": [
+            "INSTALAÇÃO",
+            "MUDANÇA"
+        ]
+    },
+    "email_sender_settings": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender_email": "rodrigoreis.sempre@gmail.com",
+        "sender_password": "wjwm wgtw oatw anti"
+    },
+    "telegram_settings": {
+        "bot_token": "8407988793:AAFncfh_td680TuDtCa6bQbIQjhe1ohIdY4"
+    },
+    "map_outage_threshold": 20
+}
